@@ -25,5 +25,5 @@
 
 4.  Use Swagger-UI to test the APIs
     ```bash 
-    http://localhost:8080/swagger-ui/index.html/
+    http://localhost:8080/swagger-ui/index.html#/
     ```
