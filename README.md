@@ -1,0 +1,2 @@
+# Nordnet assignment
+ 
